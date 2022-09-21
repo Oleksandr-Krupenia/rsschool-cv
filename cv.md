@@ -37,3 +37,10 @@ function digitalRoot(n) {
   return digitalRoot(digits.reduce((acc, d) => {return acc + +d}, 0));
 }
 ```
+
+## Courses
+
+- [Programming with JavaScript](https://coursera.org/share/db24590d68c5d66efeb242b966bc8dfb)
+- [Version Control](https://coursera.org/share/74380b32089495db9766de158262f1ee)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+- Become a Ruby on Rails Developer Learning Path by LinkedIn (in progress)
