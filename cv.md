@@ -25,3 +25,15 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 - React basics
 - Git, GitHub
 - VS Code
+
+## Code Example
+
+```
+function digitalRoot(n) {
+  if (n < 10) return n;
+
+  let digits = n.toString().split("").map(d => +d);
+
+  return digitalRoot(digits.reduce((acc, d) => {return acc + +d}, 0));
+}
+```
