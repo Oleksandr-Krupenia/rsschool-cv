@@ -44,3 +44,12 @@ function digitalRoot(n) {
 - [Version Control](https://coursera.org/share/74380b32089495db9766de158262f1ee)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 - Become a Ruby on Rails Developer Learning Path by LinkedIn (in progress)
+
+## Languages
+
+- English \
+  [C2 PROFICIENT](https://www.efset.org/cert/Q7px4F)
+- Ukrainian \
+  Native or bilingual proficiency
+- Russian \
+  Native or bilingual proficiency
