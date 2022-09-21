@@ -17,3 +17,11 @@ I’m a third-year student of Kharkiv National University of Radio Electronics. 
 besides there’s a huge amount of free high quality resources for self-education.
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Full-Stack Web Developer.
+
+## Skills
+
+- HTML5, CSS3
+- JavaScript & TypeScript, Ruby
+- React basics
+- Git, GitHub
+- VS Code
