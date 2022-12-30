@@ -21,8 +21,8 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ## Skills
 
 - HTML5, CSS3
-- JavaScript & TypeScript, Ruby
-- React basics
+- Ruby, JavaScript & TypeScript, SQL 
+- Ruby on Rails and React basics
 - Git, GitHub
 - VS Code
 
@@ -42,8 +42,8 @@ function digitalRoot(n) {
 
 - [Programming with JavaScript](https://coursera.org/share/db24590d68c5d66efeb242b966bc8dfb)
 - [Version Control](https://coursera.org/share/74380b32089495db9766de158262f1ee)
-- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-- Become a Ruby on Rails Developer Learning Path by LinkedIn (in progress)
+- [Become a Full-Stack Web Developer](https://www.linkedin.com/learning/certificates/7673304a72ae160c2d01c9a79c7aea985c8b0729c9c7aaa5da258f6da135823e)
+- [Ruby Essential Training](https://www.linkedin.com/learning/certificates/402341dcc98b3ed68703c594634394b83cef872e0cf6d04bde366f17b3319b13)
 
 ## Languages
 
